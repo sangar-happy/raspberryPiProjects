@@ -7,6 +7,7 @@
 
 int main()
 {
+	// initialises the wiringPi system to use physical numbering scheme
 	if( wiringPiSetupPhys() == -1)
 		return 1;
 
