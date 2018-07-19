@@ -44,5 +44,5 @@ Pushbutton: Two pin simple pushbutton
 Circuit Diagram:
 
 <p align="center">
-  <img src="" title="circuit for input.c">
+  <img src="https://raw.githubusercontent.com/sangar-happy/raspberryPiProjects/fBranch/circuit_diagrams/input.c.png" title="circuit for input.c">
 </p>
