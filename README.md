@@ -24,6 +24,8 @@ Circuit Diagram
 
 Resistors used: 10kΩ (Brown, Black, Orange) and 1kΩ (Brown, Black, Red)
 
+Led used: Normal led (wire which is bent is anode)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/sangar-happy/raspberryPiProjects/master/circuit_diagrams/blink.c.png" title="circuit for blink.c">
 </p>
