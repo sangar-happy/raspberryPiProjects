@@ -8,11 +8,11 @@ download link: http://wiringpi.com/download-and-install/
 
 Red wire:     Used to show connection with positive terminal
 
-Blue wire:    Used to show connection to gound
+Blue wire:    Used to show connection to ground
 
 Yellow wire:  Used to show connection with GPIO pin
 
-White wire:   Used to show internal wiring 
+White wire:   Used to show circuit's internal wiring 
 
 Resistors:    Four band color coding is used to show the resistence (<a href="http://www.circuitstoday.com/resistor-color-code-chart">details</a>)
 
