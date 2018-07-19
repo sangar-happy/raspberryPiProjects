@@ -14,7 +14,7 @@ Yellow wire:  Used to show connection with GPIO pin
 
 White wire:   Used to show internal wiring 
 
-Resistors:    Four band color coding is used to show the resistence <a href="http://www.circuitstoday.com/resistor-color-code-chart>details</a>
+Resistors:    Four band color coding is used to show the resistence <a href="http://www.circuitstoday.com/resistor-color-code-chart> details </a>
 
 
 # blink.c
