@@ -36,6 +36,7 @@
 *.x86_64
 *.hex
 blink
+input
 
 # Debug files
 *.dSYM/
@@ -52,3 +53,5 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+#files opened in nano
+.swp
