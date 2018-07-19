@@ -4,8 +4,7 @@ From the basic "blink" program to advance programs
 # using wiringPi.h library
 download link: http://wiringpi.com/download-and-install/
 
-# conventions for circuit diagram
-
+# rules of thumb for circuit diagrams
 Red wire:     Used to show connection with positive terminal
 
 Blue wire:    Used to show connection to ground
