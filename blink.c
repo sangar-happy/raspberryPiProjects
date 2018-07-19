@@ -14,10 +14,12 @@ int main()
 	pinMode(LED, OUTPUT);
 	pinMode(GPIOIN, INPUT);
 
+	//loop to run forever
 	for(int i = 1;; i++)
 	{
-		// Updates the status of the GPIO pin ti HIGH or LOW
-		digitalWrite(LED, HIGH);
+		// Updates the status of the GPIO pin to HIGH or LOW
+		digitalWrite(LED, HIGH);// set pin 12 to HIGH
+
 		printf("Physical pin no. %d set to HIGH\t\t%d\n", LED, i);
 		// Reads the status of GPIO pin
 		if(!digitalRead(GPIOIN))// if pin 40 is still LOW stop the program
@@ -25,7 +27,7 @@ int main()
 		// delays the program by 500 ms
 		delay(500);
 
-		digitalWrite(LED, LOW);
+		digitalWrite(LED, LOW);// set pin 12 to LOW
 		printf("Physical pin no. %d set to LOW\n", LED);
 		if(digitalRead(GPIOIN))// if pin 40 is still HIGH stop the program
 			return 2;
