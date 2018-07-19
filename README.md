@@ -5,7 +5,7 @@ From the basic "blink" program to advance programs
 download link: http://wiringpi.com/download-and-install/
 
 # blink.c
-Simple program which "HELLO WORLD" equivalent in programming raspberry pi.
+Simple program which is "HELLO WORLD" equivalent in programming raspberry pi.
 
 Circuit Diagram
 
