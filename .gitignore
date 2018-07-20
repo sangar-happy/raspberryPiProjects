@@ -37,7 +37,6 @@
 *.hex
 blink
 input
-blink_RGB
 
 # Debug files
 *.dSYM/
