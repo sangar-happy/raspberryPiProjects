@@ -36,10 +36,7 @@ Program to take input from the user using a pushbutton/switch.
 
 Resistors used: 10kΩ (Brown, Black, Orange) and 1kΩ (Brown, Black, Red)
 
-
-
-Pushbutton: Two pin simple pushbutton
-
+Pushbutton: Two pin pushbutton/switch
 
 Circuit Diagram:
 
