@@ -4,8 +4,7 @@ From the basic "blink" program to advance programs
 # using wiringPi.h library
 download link: http://wiringpi.com/download-and-install/
 
-# conventions for circuit diagram
-
+# rules of thumb for circuit diagrams
 Red wire:     Used to show connection with positive terminal
 
 Blue wire:    Used to show connection to ground
@@ -35,8 +34,6 @@ Circuit Diagram:
 Program to take input from the user using a pushbutton/switch.
 
 Resistors used: 10kΩ (Brown, Black, Orange) and 1kΩ (Brown, Black, Red)
-
-Led used: Normal led (wire which is bent is anode)
 
 Pushbutton: Two pin simple pushbutton
 
