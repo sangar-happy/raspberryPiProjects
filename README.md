@@ -22,7 +22,7 @@ Simple program which is "HELLO WORLD" equivalent in programming raspberry pi.
 
 Resistors used: 10kΩ (Brown, Black, Orange) and 1kΩ (Brown, Black, Red)
 
-Led used: Normal led (wire which is bent is anode)
+Led used: Normal led (bent wire is anode)
 
 Circuit Diagram:
 
@@ -36,7 +36,7 @@ Program to take input from the user using a pushbutton/switch.
 
 Resistors used: 10kΩ (Brown, Black, Orange) and 1kΩ (Brown, Black, Red)
 
-Led used: Normal led (wire which is bent is anode)
+
 
 Pushbutton: Two pin simple pushbutton
 
