@@ -37,6 +37,7 @@
 *.hex
 blink
 input
+blink_RGB
 
 # Debug files
 *.dSYM/
@@ -54,5 +55,4 @@ Mkfile.old
 dkms.conf
 
 #files opened in nano
-*
-.swp
+*.swp
