@@ -47,9 +47,9 @@ Circuit Diagram:
 # blink_RGB
 Program to make a four pin RGB LED blink.
 
-For a common anode RGB LED
 
-</br>
+
+For a common anode RGB LED
 
 Resistors used: 3 * 1kΩ (Brown, Black, Red)
 
