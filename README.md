@@ -43,3 +43,18 @@ Circuit Diagram:
 <p align="center">
   <img src="https://raw.githubusercontent.com/sangar-happy/raspberryPiProjects/fBranch/circuit_diagrams/input.c.png" title="circuit for input.c">
 </p>
+
+# blink_RGB
+Program to make a four pin RGB LED blink.
+
+For a common anode RGB LED
+
+Resistors used: 3 * 1kΩ (Brown, Black, Red)
+
+Wiring: Red, Green and Blue wires are used to show connection with cathode of LED of respective colors. Orange wire is used to denote connection with 3V
+
+Circuit Diagram:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sangar-happy/raspberryPiProjects/fBranch/circuit_diagrams/blink_RGB.c_commonAnode.png" title="circuit for blink_RGB.c (common anode)">
+</p>
