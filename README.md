@@ -19,7 +19,7 @@ Resistors:    Four band color coding is used to show the resistence (<a href="ht
 # blink.c
 Simple program which is "HELLO WORLD" equivalent in programming raspberry pi.
 
-Resistors used: 10kΩ (Brown, Black, Orange) and 1kΩ (Brown, Black, Red)
+Resistors used: 500Ω (Green, Black, Brown) and 10kΩ (Brown, Black, Orange)
 
 Led used: Normal led (wire which is bent is anode)
 
