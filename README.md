@@ -48,9 +48,7 @@ Circuit Diagram:
 # blink_RGB
 Program to make four pin RGB LED change colors with user input.
 
-</br>
-
-<u>For a common anode RGB LED</u>
+<p><u>For a common anode RGB LED</u></p>
 
 RGB LED: The long pin with a bend is common anode. Rest of the pins are cathodes of respective LED's
 
