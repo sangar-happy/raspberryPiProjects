@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <wiringPi.h>
 
+
 // using the physical numbering scheme
 #define LED 12
 #define GPIO_IN 40
@@ -8,7 +9,7 @@
 int main()
 {
 	// initialises the wiringPi system to use physical numbering scheme
-	if(wiringPiSetupPhys() == 1) // if the fuction returns -1 some problem has occured.
+	if(wiringPiSetupPhys() == -1) // if the fuction returns -1 some problem has occured.
 		return 1;
 
 	// sets the GPIO pin for either input or output
