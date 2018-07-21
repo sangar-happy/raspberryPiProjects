@@ -26,7 +26,7 @@ Led used: Normal led (wire which is bent is anode)
 Circuit Diagram:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sangar-happy/raspberryPiProjects/master/circuit_diagrams/blink.c.png" title="circuit for blink.c">
+  <img src="https://raw.githubusercontent.com/sangar-happy/raspberryPiProjects/fBranch/circuit_diagrams/blink.c.png" title="circuit for blink.c">
 </p>
 
 
