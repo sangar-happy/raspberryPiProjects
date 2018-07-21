@@ -64,6 +64,7 @@ Circuit Diagram:
   <img src="https://raw.githubusercontent.com/sangar-happy/raspberryPiProjects/fBranch/circuit_diagrams/blink_RGB.c_commonAnode.png" title="circuit for blink_RGB.c (common anode)">
 </p>
 
+</hr>
 </br></br>
 
 For a common cathode RGB LED
