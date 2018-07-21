@@ -49,6 +49,8 @@ Program to make a four pin RGB LED blink.
 
 For a common anode RGB LED
 
+</br>
+
 Resistors used: 3 * 1kΩ (Brown, Black, Red)
 
 Wiring: Red, Green and Blue wires are used to show connection with cathode of LED of respective colors. Orange wire is used to denote connection with 3V
