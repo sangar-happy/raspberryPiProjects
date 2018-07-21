@@ -49,7 +49,7 @@ Circuit Diagram:
 Program to make four pin RGB LED change colors with user input.
 
 For a common anode RGB LED
-==============================
+-----------------------
 
 RGB LED: The long pin with a bend is common anode. Rest of the pins are cathodes of respective LED's
 
