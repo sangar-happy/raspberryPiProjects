@@ -12,6 +12,7 @@ From the basic "blink" program to advance programs
 
 ### hardware
 Each new line assumes you to have the hardware components of previous line (components segregated according to their usage in successive programs):
+
 <ul style = "list-style-type: circle">
 <li>raspberry pi 3 model B+, bread board, GPIO breakout board / female to male jumper wires, male jumper wires, resistors (500Ω and 10kΩ), 5 mm LED's
 
@@ -21,6 +22,7 @@ Each new line assumes you to have the hardware components of previous line (comp
 
 <li>resistors (330Ω), npn transistor (2N2222A)
 </ul>
+
 # conventions for circuit diagrams
 
 Red wire:     Used to show connection with positive terminal
