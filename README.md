@@ -9,7 +9,7 @@ From the basic "blink" program to advance programs
 <ul style = "list-style-type:circle">
 <li> <a href = "http://wiringpi.com/download-and-install">wiringPi.h library</a>
 
-<li> [fritzing](http://fritzing.org/home/)
+<li> <a href = "http://fritzing.org/home/">fritzing</a>
 </ul>
   
 ### hardware
