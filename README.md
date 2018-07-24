@@ -7,9 +7,9 @@ From the basic "blink" program to advance programs
 
 ### software
 <ul style = "list-style-type:circle">
-<li>[wiringPi.h library](http://wiringpi.com/download-and-install)
+<li> [wiringPi.h library](http://wiringpi.com/download-and-install)
 
-<li>[fritzing](http://fritzing.org/home/)
+<li> [fritzing](http://fritzing.org/home/)
 </ul>
   
 ### hardware
