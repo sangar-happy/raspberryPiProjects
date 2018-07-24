@@ -6,10 +6,12 @@ From the basic "blink" program to advance programs
 # prerequisites
 
 ### software
-[wiringPi.h library](http://wiringpi.com/download-and-install)
+<ul style = "list-style-type:circle">
+<li>[wiringPi.h library](http://wiringpi.com/download-and-install)
 
-[fritzing](http://fritzing.org/home/)
-
+<li>[fritzing](http://fritzing.org/home/)
+</ul>
+  
 ### hardware
 Each new line assumes you to have the hardware components of previous line (components segregated according to their usage in successive programs):
 
