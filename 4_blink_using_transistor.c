@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include <wiringPi.h>
 
 // GPIO pin 37 connected with BASE pin of the transistor
