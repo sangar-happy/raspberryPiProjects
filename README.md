@@ -11,7 +11,7 @@ From the basic "blink" program to advance programs
 [fritzing](http://fritzing.org/home/)
 
 ### hardware
-Each new line assumes you to have the hardware components of previous line (components segregated according to their usage in successive programs)
+Each new line assumes you to have the hardware components of previous line (components segregated according to their usage in successive programs):
 
 raspberry pi 3 model B+, bread board, GPIO breakout board / female to male jumper wires, male jumper wires, resistors (500Ω and 10kΩ), 5 mm LED's
 
