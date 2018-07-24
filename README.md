@@ -37,7 +37,8 @@ Each new line assumes you to have the hardware components of previous line (comp
 <li>Yellow wire:  Used to show connection with GPIO pin
 
 <li>White wire:   Used to show circuit's internal wiring 
-
+</ul>
+  
 ### usage of resistors
 
 Four band color coding is used to show the resistence (<a href="http://www.circuitstoday.com/resistor-color-code-chart">details</a>)
