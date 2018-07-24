@@ -20,7 +20,7 @@ Each new line assumes you to have the hardware components of previous line (comp
 
 <li>resistors (1kΩ), two pin switch.
 
-<li>rgb led (common anode/ cathode)
+<li>rgb led (common anode/cathode)
 
 <li>resistors (330Ω), npn transistor (2N2222A)
 </ul>
