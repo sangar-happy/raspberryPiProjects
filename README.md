@@ -27,15 +27,24 @@ Each new line assumes you to have the hardware components of previous line (comp
 
 # conventions for circuit diagrams
 
-Red wire:     Used to show connection with positive terminal
+### usage of wires
 
-Blue wire:    Used to show connection to ground
+<ul style = "list-style-type: circle">
+<li>Red wire:     Used to show connection with positive terminal
 
-Yellow wire:  Used to show connection with GPIO pin
+<li>Blue wire:    Used to show connection to ground
 
-White wire:   Used to show circuit's internal wiring 
+<li>Yellow wire:  Used to show connection with GPIO pin
 
-Resistors:    Four band color coding is used to show the resistence (<a href="http://www.circuitstoday.com/resistor-color-code-chart">details</a>)
+<li>White wire:   Used to show circuit's internal wiring 
+
+### usage of resistors
+
+Four band color coding is used to show the resistence (<a href="http://www.circuitstoday.com/resistor-color-code-chart">details</a>)
+
+### usage of LED's
+
+The anode of the LED is longer than other pin(s) and is bent.
 
 </hr>
 
@@ -44,7 +53,7 @@ Simple program which is "HELLO WORLD" equivalent in programming raspberry pi.
 
 Resistors used: 500Ω (Green, Black, Brown) and 10kΩ (Brown, Black, Orange)
 
-Led used: Normal led (bent wire is anode)
+Led used: 5 mm LED
 
 Circuit Diagram:
 
@@ -57,7 +66,6 @@ Circuit Diagram:
 Program to take input from the user using a pushbutton/switch.
 
 Resistors used: 10kΩ (Brown, Black, Orange) and 1kΩ (Brown, Black, Red)
-
 
 Pushbutton: Two pin pushbutton/switch
 
@@ -100,6 +108,8 @@ Circuit Diagram:
 
 # blink_using_transistor
 Program to make two pin LED blink using a Bipolar Junction Transistor as a switch.
+
+Led used: 5 mm LED
 
 Resistors used: 330Ω (Orange, Orange, Brown) and 10kΩ (Brown, Black, Orange)
 
