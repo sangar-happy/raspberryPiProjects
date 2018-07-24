@@ -6,9 +6,13 @@ From the basic "blink" program to advance programs
 # prerequisites
 
 ### software
-using wiringPi.h library link: http://wiringpi.com/download-and-install
+using wiringPi.h library 
 
-fritzing link: http://fritzing.org/home/
+link: http://wiringpi.com/download-and-install
+
+fritzing 
+
+link: http://fritzing.org/home/
 
 ### hardware
 Each new line assumes you to have the hardware components of previous line (components segregated according to their usage in successive programs)
