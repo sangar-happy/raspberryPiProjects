@@ -1,8 +1,25 @@
 # raspberryPiProjects
 From the basic "blink" program to advance programs
 
-# using wiringPi.h library
-download link: http://wiringpi.com/download-and-install
+</hr>
+
+# prerequisites
+
+### software
+using wiringPi.h library link: http://wiringpi.com/download-and-install
+
+fritzing link: http://fritzing.org/home/
+
+### hardware
+Each new line assumes you to have the hardware components of previous line (components segregated according to their usage in successive programs)
+
+raspberry pi 3 model B+, bread board, GPIO breakout board / female to male jumper wires, male jumper wires, resistors (500Ω and 10kΩ), 5 mm LED's
+
+resistors (1kΩ), two pin switch.
+
+rgb led (common anode/ cathode)
+
+resistors (330Ω), npn transistor (2N2222A)
 
 # conventions for circuit diagrams
 
@@ -16,6 +33,7 @@ White wire:   Used to show circuit's internal wiring
 
 Resistors:    Four band color coding is used to show the resistence (<a href="http://www.circuitstoday.com/resistor-color-code-chart">details</a>)
 
+</hr>
 
 # blink.c
 Simple program which is "HELLO WORLD" equivalent in programming raspberry pi.
@@ -74,4 +92,17 @@ Circuit Diagram:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sangar-happy/raspberryPiProjects/fBranch/circuit_diagrams/blink_RGB.c_commonCathode.png" title="circuit for blink_RGB.c (common cathode)">
+</p>
+
+# blink_using_transistor
+Program to make two pin LED blink using a Bipolar Junction Transistor as a switch.
+
+Resistors used: 330Ω (Orange, Orange, Brown) and 10kΩ (Brown, Black, Orange)
+
+Transistor used: npn transistor (2N2222A). The longest pin is Base, the pin connected to ground is Emitter and the last pin is Collector (connected with cathode of LED)
+
+Circuit Diagram:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sangar-happy/raspberryPiProjects/fBranch/circuit_diagrams/blink_using_transistor.c.png" title="circuit for blink_using_transistor.c">
 </p>
