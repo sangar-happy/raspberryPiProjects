@@ -35,9 +35,10 @@
 *.i*86
 *.x86_64
 *.hex
-blink
-input
-blink_RGB
+1_blink
+2_input
+3_blink_RGB
+4_blink_using_transistor
 
 # Debug files
 *.dSYM/
