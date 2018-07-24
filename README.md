@@ -19,7 +19,7 @@ Each new line assumes you to have the hardware components of previous line (comp
 
 <li>rgb led (common anode/ cathode)
 
-<le>resistors (330Ω), npn transistor (2N2222A)
+<li>resistors (330Ω), npn transistor (2N2222A)
 </ul>
 # conventions for circuit diagrams
 
