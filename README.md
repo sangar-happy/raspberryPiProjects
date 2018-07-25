@@ -51,7 +51,7 @@ The anode of the LED is longer than other pin(s) and is bent.
 
 </hr>
 
-# blink.c
+# blink
 Simple program which is "HELLO WORLD" equivalent in programming raspberry pi.
 
 Resistors used: 500Ω (Green, Black, Brown) and 10kΩ (Brown, Black, Orange)
@@ -65,7 +65,7 @@ Circuit Diagram:
 </p>
 
 
-# input.c
+# input
 Program to take input from the user using a pushbutton/switch.
 
 Resistors used: 10kΩ (Brown, Black, Orange) and 1kΩ (Brown, Black, Red)
@@ -124,7 +124,7 @@ Circuit Diagram:
   <img src="https://raw.githubusercontent.com/sangar-happy/raspberryPiProjects/fBranch/circuit_diagrams/blink_using_transistor.c.png" title="circuit for buzzer.c">
 </p>
 
-# buzzer.c
+# buzzer
 Program uses a switch as user's input to make buzzer on/off
 
 Resistors used: 2 * 10kΩ (Brown, Black, Orange)
