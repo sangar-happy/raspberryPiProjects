@@ -119,5 +119,5 @@ Transistor used: npn transistor (2N2222A). The longest pin is Base, the pin conn
 Circuit Diagram:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sangar-happy/raspberryPiProjects/fBranch/circuit_diagrams/blink_using_transistor.c.png" title="circuit for blink_using_transistor.c">
+  <img src="https://raw.githubusercontent.com/sangar-happy/raspberryPiProjects/fBranch/circuit_diagrams/blink_using_transistor.c.png" title="circuit for buzzer.c">
 </p>
