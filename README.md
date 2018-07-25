@@ -136,5 +136,5 @@ Buzzer used: 5V active piezo buzzer
 Circuit Diagram:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sangar-happy/raspberryPiProjects/fBranch/circuit_diagrams/buzzer.c.png" title="circuit for blink_using_transistor.c">
+  <img src="https://raw.githubusercontent.com/sangar-happy/raspberryPiProjects/fBranch/circuit_diagrams/buzzer.c.png" title="circuit for buzzer.c">
 </p>
