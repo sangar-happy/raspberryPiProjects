@@ -23,6 +23,8 @@ Each new line assumes you to have the hardware components of previous line (comp
 <li>rgb led (common anode/cathode)
 
 <li>resistors (330Ω), npn transistor (2N2222A)
+  
+<li>5V active piezo buzzer
 </ul>
 
 # conventions for circuit diagrams
@@ -120,4 +122,19 @@ Circuit Diagram:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sangar-happy/raspberryPiProjects/fBranch/circuit_diagrams/blink_using_transistor.c.png" title="circuit for blink_using_transistor.c">
+</p>
+
+# buzzer.c
+Program uses a switch as user's input to make buzzer on/off
+
+Resistors used: 2 * 10kΩ (Brown, Black, Orange)
+
+Transistor used: npn transistor (2N2222A). The longest pin is Base, the pin connected to ground is Emitter and the last pin is Collector (connected with cathode of buzzer)
+
+Buzzer used: 5V active piezo buzzer
+
+Circuit Diagram:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sangar-happy/raspberryPiProjects/fBranch/circuit_diagrams/buzzer.c.png" title="circuit for blink_using_transistor.c">
 </p>
