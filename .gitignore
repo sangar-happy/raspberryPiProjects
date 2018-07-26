@@ -39,6 +39,7 @@
 2_input
 3_blink_RGB
 4_blink_using_transistor
+morse
 
 # Debug files
 *.dSYM/
