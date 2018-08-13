@@ -61,7 +61,7 @@ Led used: 5 mm LED
 Circuit Diagram:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sangar-happy/raspberryPiProjects/fBranch/circuit_diagrams/blink.c.png" title="circuit for blink.c">
+  <img src="https://raw.githubusercontent.com/sangar-happy/raspberry_experiment/fBranch/circuit_diagrams/blink.c.png" title="circuit for blink.c">
 </p>
 
 
@@ -75,7 +75,7 @@ Pushbutton: Two pin pushbutton/switch
 Circuit Diagram:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sangar-happy/raspberryPiProjects/fBranch/circuit_diagrams/input.c.png" title="circuit for input.c">
+  <img src="https://raw.githubusercontent.com/sangar-happy/raspberry_experiment/fBranch/circuit_diagrams/input.c.png" title="circuit for input.c">
 </p>
 
 # blink_RGB
@@ -92,7 +92,7 @@ Wiring: Red, Green and Blue wires are used to show connection with cathode of LE
 Circuit Diagram:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sangar-happy/raspberryPiProjects/fBranch/circuit_diagrams/blink_RGB.c_commonAnode.png" title="circuit for blink_RGB.c (common anode)">
+  <img src="https://raw.githubusercontent.com/sangar-happy/raspberry_experiment/fBranch/circuit_diagrams/blink_RGB.c_commonAnode.png" title="circuit for blink_RGB.c (common anode)">
 </p>
 
 ### For a common cathode RGB LED
@@ -106,7 +106,7 @@ Wiring: Red, Green and Blue wires are used to show connection with anode of LED 
 Circuit Diagram:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sangar-happy/raspberryPiProjects/fBranch/circuit_diagrams/blink_RGB.c_commonCathode.png" title="circuit for blink_RGB.c (common cathode)">
+  <img src="https://raw.githubusercontent.com/sangar-happy/raspberry_experiment/fBranch/circuit_diagrams/blink_RGB.c_commonCathode.png" title="circuit for blink_RGB.c (common cathode)">
 </p>
 
 # blink_using_transistor
@@ -121,7 +121,7 @@ Transistor used: npn transistor (2N2222A). The longest pin is Base, the pin conn
 Circuit Diagram:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sangar-happy/raspberryPiProjects/fBranch/circuit_diagrams/blink_using_transistor.c.png" title="circuit for buzzer.c">
+  <img src="https://raw.githubusercontent.com/sangar-happy/raspberry_experiment/fBranch/circuit_diagrams/blink_using_transistor.c.png" title="circuit for buzzer.c">
 </p>
 
 # buzzer
@@ -136,5 +136,5 @@ Buzzer used: 5V active piezo buzzer
 Circuit Diagram:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sangar-happy/raspberryPiProjects/fBranch/circuit_diagrams/buzzer.c.png" title="circuit for buzzer.c">
+  <img src="https://raw.githubusercontent.com/sangar-happy/raspberry_experiment/fBranch/circuit_diagrams/buzzer.c.png" title="circuit for buzzer.c">
 </p>
